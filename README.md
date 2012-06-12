@@ -49,3 +49,6 @@ The node is:
   }
 }
 
+## Dependencies
+
+jsonpath gem
