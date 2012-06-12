@@ -2,7 +2,7 @@
 
 Will replace the value at the config node speficied by JSONPath (see  http://goessner.net/articles/JsonPath/).
 
-## Exampled
+## Examples
 Given a node:
 
 {
